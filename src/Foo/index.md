@@ -1,6 +1,7 @@
 ---
+title: Foo
 nav:
-  title: Components
+  title: 组件
   path: /components
 ---
 
